@@ -26,7 +26,6 @@ jobs:
           plugin_lines_sections: base
           plugin_languages_indepth: yes
           plugin_languages_details: lines
-          plugin_lines_skipped: ""
           plugin_lines_repositories_limit: 100
           repositories_skipped: dstreetfinance/release
           repositories_affiliations: ""
