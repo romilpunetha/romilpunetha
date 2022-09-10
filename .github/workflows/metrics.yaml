@@ -19,6 +19,11 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, javascript, matlab
           plugin_traffic: yes
           plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines
+          plugin_languages_limit: 4
+          
