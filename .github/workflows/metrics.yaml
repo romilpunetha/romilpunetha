@@ -28,5 +28,5 @@ jobs:
           plugin_languages_details: lines
           plugin_lines_repositories_limit: 100
           repositories_skipped: dstreetfinance/release
-          repositories_affiliations: ""
+          repositories_affiliations: owner,collaborator,organization_member
           
