@@ -27,7 +27,7 @@ jobs:
           plugin_languages_limit: 3
           plugin_topics: yes
           plugin_lines: yes
-          plugin_lines_section: base
+          plugin_lines_sections: base
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_notable: yes
